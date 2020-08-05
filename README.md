@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://za.linkedin.com/in/clay-kabongo-k-2b38b156)
 
-- ⚡ Fun fact: Enjoy craft beer
+- ⚡ Fun fact: I enjoy craft beer
 
 ---
 <img align="left" alt="claykabongok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claykabongok&&count_private=true&show_icons=true&hide_border=true" />
