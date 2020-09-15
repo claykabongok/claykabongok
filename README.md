@@ -38,8 +38,7 @@ height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/js.jpg?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/node3.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/reactjs.png?raw=true"  
-height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/
-expressjs.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/expressjs.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/html5.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/css3.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/bootstrap.jpg?raw=true"  
@@ -56,7 +55,7 @@ height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/postman.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/bibucket.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/
-git-for-windows.png?raw=true"  
+git_windows.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/icon_slogan.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/npm.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/sb_cron_icon.png?raw=true"  
