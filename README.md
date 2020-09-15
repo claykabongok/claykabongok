@@ -1,24 +1,19 @@
-# `Clay Kabongo K` 
+# `Clay Kabongo K`
 
 ---
 
-## Software Developer 
+## Software Developer
 
 ### Hi there 👋
-
-
-
-
 
 - 🔭 I’m currently working on mobile and web applications
 - 🌱 I’m currently learning [flutter](https://flutter.dev/)
 
 - 📫 How to reach me: [LinkedIn](https://za.linkedin.com/in/clay-kabongo-k-2b38b156)
 
-
 ---
-<img align="left" alt="claykabongok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claykabongok&&count_private=true&show_icons=true&hide_border=true" />
 
+<img align="left" alt="claykabongok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claykabongok&&count_private=true&show_icons=true&hide_border=true" />
 
 <!--
 **claykabongok/claykabongok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 ⚡ Fun fact: Enjoy craft beer
 -->
-
