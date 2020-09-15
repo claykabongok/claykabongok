@@ -30,9 +30,21 @@ Here are some ideas to get you started:
 ⚡ Fun fact: Enjoy craft beer
 -->
 
+---
+
+<br/>
+
 ## Programming Languages, Libraries and Frameworks
 
-<img src="" height='30'>
 <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/java.jpg?raw=true"  
-height='30'
->
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/cshap.jpeg?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/php.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/js.jpg?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/node3.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/reactjs.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/
+expressjs.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/html5.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/css3.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/bootstrap.jpg?raw=true"  
+height='50'>
