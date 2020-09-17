@@ -42,8 +42,9 @@ height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/expressjs.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/html5.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/css3.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/sass.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/bootstrap.jpg?raw=true"  
-height='40'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/sass.jpg?raw=true"  height='50'>
+height='40'>
 
 <br/>
 
