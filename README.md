@@ -57,7 +57,6 @@ height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/postman.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/bibucket.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/git_windows.png?raw=true"  
-height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/icon_slogan.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/npm.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/sb_cron_icon.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/tools/webpack.png?raw=true"  
