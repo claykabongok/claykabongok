@@ -65,4 +65,4 @@ height='50'>
 
 ---
 
-<img align="left" alt="claykabongok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claykabongok&&count_private=true&show_icons=true&hide_border=true" />
+<img align="left" alt="claykabongok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claykabongok&&count_private=true&show_icons=true&include_all_commits=true" />
