@@ -37,7 +37,7 @@ height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/cshap.jpeg?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/php.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/laravel.png?raw=true"  
-height='50'><img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/ts.png?raw=true"  
+height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/ts.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/js.jpg?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/node3.png?raw=true"  
 height='50'> <img src="https://github.com/claykabongok/claykabongok/blob/master/Readme/languages/reactjs.png?raw=true"  
