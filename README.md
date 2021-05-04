@@ -28,4 +28,8 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="claykabongok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=claykabongok&&count_private=true&show_icons=true&include_all_commits=true" />
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=claykabongok&&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=claykabongok&theme=tokyonight" />
+</p>
