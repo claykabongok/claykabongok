@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on mobile and web applications
+- 🔭 I’m currently working on web applications
 - 🌱 I’m currently learning [flutter](https://flutter.dev/)
 
 - 📫 How to reach me: [LinkedIn](https://za.linkedin.com/in/clay-kabongo-k-2b38b156)
